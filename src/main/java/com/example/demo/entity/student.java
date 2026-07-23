@@ -77,9 +77,4 @@ public class student {
 				+ ", address=" + address + ", gender=" + gender + ", age=" + age + "]";
 	}
 	
-	
-	
-	
-	
-
 }
